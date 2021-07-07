@@ -10,7 +10,7 @@
 - name: Download esl-erlang package
   get_url:
     url: https://packages.erlang-solutions.com/erlang/debian/pool/esl-erlang_24.0.2-1~ubuntu~bionic_amd64.deb
-    dest: /home/ubuntu/esl-erlang_21.0-1~debian~stretch_amd64.deb
+    dest: /home/ubuntu/esl-erlang_24.0.2-1~ubuntu~bionic_amd64.deb
     owner: root
     group: root
     mode: 0755
